@@ -12,6 +12,7 @@
   <img align="left" alt="Nitesh's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
  -->
+ 
 ![](https://visitor-badge.glitch.me/badge?page_id=Nitesh-Goshwami.Nitesh-Goshwami)
 
 <br />
@@ -39,27 +40,12 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<!-- 📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   3 hrs 56 mins   ████████████████████░░░░░   79.66 % 
-JSX          29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-MDX          25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %  -->
-```
 <!--END_SECTION:waka-->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/NiteshGoshwami" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<!-- 🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-<!-- 🏆  1 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 10 tasks so far           
-⏳  Longest streak is 10 days -->
-<!-- TODO-IST:END --> -->
 
 
 📈 my github stats
