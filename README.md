@@ -25,7 +25,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://t4.ftcdn.net/jpg/02/23/73/03/240_F_223730334_0l31O1JBvtyw2B8Zkeu95LEqX0Y3PxjG.jpg"></code>
+<code><img height="20" src="https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
