@@ -1,17 +1,12 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<!-- <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Nitesh's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a> -->
+
 <a href="https://twitter.com/Niteshkumargos1">
   <img align="left" alt="Nitesh Goshwami | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/nitesh-goshwami-88629a167/">
   <img align="left" alt="Nitesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<!-- <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Nitesh's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
- -->
+
  
 ![](https://visitor-badge.glitch.me/badge?page_id=Nitesh-Goshwami.Nitesh-Goshwami)
 
@@ -30,7 +25,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://www.google.com/search?q=html&rlz=1C1CHBF_enIN970IN970&sxsrf=AOaemvJh2--DtWPtmoGHADcO0azUJ1gr4g:1635061586573&tbm=isch&source=iu&ictx=1&fir=Bq4WTYc6O16thM%252C1Ted8cCjatfjsM%252C_%253B0j3gjPrCCFjBKM%252CMSGRetf_nHDq1M%252C_%253B47rMecKRQ86vnM%252Cx1F87dxfzKiqSM%252C_%253B3e0TcBL5-MElpM%252CZbJfQ7C3fPH3tM%252C_%253B8Z5hfTp6qyQAvM%252C81MvZhhis9d2gM%252C_&vet=1&usg=AI4_-kTVccVa5BVShnpMo1BzsIFi2otX6g&sa=X&ved=2ahUKEwixqraIx-LzAhXExTgGHfGTAGUQ_B16BAhXEAE#imgrc=Bq4WTYc6O16thM"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
