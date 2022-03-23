@@ -79,7 +79,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     <a href="https://leetcode.com/jd_23/"><img alt="LeetCode"
             src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black?link=http://left&link=https://leetcode.com/jd_23/"
             height="35px" /></a>
-
+        <a href="goswami.nitesh5794@gmail.com"><img alt="Gmail"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?link=http://left&link=goswami.nitesh5794@gmail.com"
+            height="35px" width = "140px"/></a>
     
 </p>
 
