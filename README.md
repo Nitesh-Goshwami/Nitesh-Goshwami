@@ -96,8 +96,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nitesh-Goshwami&show_icons=true&theme=gotham" alt="Nitesh" />
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitesh-Goshwami"
-        alt="Nitesh-Goshwami-language">
+        <img height= "195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Goshwami&theme=react&layout=compact" />
+        </p>
 
 
 
